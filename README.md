@@ -9,28 +9,24 @@ Patches needed for bringup
 187951
 - vendor overlays
 185491
-- display guard
-185798
 - init dont panic
 187146
 - shims
 185640
 - libhardware legacy
 187563
-187564
-187565
-187566
-187567
-- qcom interfaces
+- interfaces
 187569
 187570
 - qcom frameworks av
 185929
-- qcom tert display
+- tert display
 187643
 - kernel
 188037
 188039
-- qcom bt fm
-188038
-187860
+- tinycompress
+185936
+188064
+185937
+185938
