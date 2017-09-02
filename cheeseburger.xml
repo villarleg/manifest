@@ -11,6 +11,14 @@
   <!-- device settings -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
 
+  <!-- hardware/interfaces -->
+  <remove-project name="platform/hardware/interfaces" ></remove-project>
+  <project path="hardware/interfaces" name="LineageOS/android_hardware_interfaces" />
+
+  <!-- libhwardware_legacy -->
+  <remove-project name="platform/hardware/libhardware_legacy" ></remove-project>
+  <project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" />
+  
   <!-- hardware/qcom -->
   <project path="hardware/qcom/audio-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="lineage-15.0-caf-8998" />
   <project path="hardware/qcom/display-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="lineage-15.0-caf-8998" />
