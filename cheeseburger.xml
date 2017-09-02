@@ -30,7 +30,7 @@
 
   <!-- libnetfilter_conntrack -->
   <remove-project name="platform/external/libnetfilter_conntrack" ></remove-project>
-  <project path="external/libnetfilter_conntrack" name="NastyAndroidDevs/android_external_libnetfilter_conntrack" />
+  <project path="external/libnetfilter_conntrack" name="LineageOS/android_external_libnetfilter_conntrack" />
 
   <!-- tinycompress_vendor -->
   <remove-project name="LineageOS/android_external_tinycompress"></remove-project>
