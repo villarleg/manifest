@@ -28,6 +28,9 @@
   <remove-project name="LineageOS/android_external_tinycompress"></remove-project>
   <project path="external/tinycompress" name="NastyAndroidDevs/android_external_tinycompress" />
 
+  <!-- qcom opensource -->
+  <project name="NastyAndroidDevs/android_vendor_qcom_opensource_interfaces" path="vendor/qcom/opensource/interfaces" remote="github" />
+  
   <!-- vendor -->
   <project name="NastyAndroidDevs/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
 
