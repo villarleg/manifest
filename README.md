@@ -18,8 +18,6 @@ Patches needed for bringup
 - interfaces
 187569
 187570
-- qcom frameworks av
-185929
 - tert display
 187643
 - kernel
@@ -30,3 +28,5 @@ Patches needed for bringup
 188064
 185937
 185938
+- ebtables ulog support
+188200
