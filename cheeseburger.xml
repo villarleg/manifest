@@ -13,7 +13,7 @@
   <remove-project name="LineageOS/android_hardware_qcom_display" revision="lineage-15.0-caf-8998" ></remove-project>
   <remove-project name="LineageOS/android_hardware_qcom_media" revision="lineage-15.0-caf-8998" ></remove-project>
   <project path="hardware/qcom/audio-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="lineage-15.0-caf-8998" />
-  <project path="hardware/qcom/display-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="lineage-15.0-caf-8998" />
+  <project path="hardware/qcom/display-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="lineage-15.0-aosp-8998" />
   <project path="hardware/qcom/media-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_media" groups="qcom,pdk" revision="lineage-15.0-caf-8998" />
   
   <!-- qcom opensource -->
@@ -21,6 +21,6 @@
   <project name="NastyAndroidDevs/android_vendor_qcom_opensource_interfaces" path="vendor/qcom/opensource/interfaces" remote="github" />
   
   <!-- vendor -->
-  <project name="NastyAndroidDevs/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" />
+  <project name="NastyAndroidDevs/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.0-graphics" />
 
 </manifest>
