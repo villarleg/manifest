@@ -1,8 +1,5 @@
 Patches needed for bringup
 
-- media extensions
-185852
-185869
 - healthd
 185521
 - android alarm
@@ -13,20 +10,25 @@ Patches needed for bringup
 187146
 - shims
 185640
-- libhardware legacy
-187563
-- interfaces
+- interfaces wifi
+187568
 187569
 187570
-- tert display
-187643
-- kernel
-188037
-188039
 - tinycompress
 185936
 188064
 185937
 185938
-- ebtables ulog support
-188200
+- libhardware tert display
+187643
+187644
+- libhardware dim layer
+188336
+188337
+- qcom display
+188329
+- qcom audio
+188330
+188331
+188332
+188333
