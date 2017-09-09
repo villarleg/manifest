@@ -54,3 +54,22 @@ Recommended to use repopick.
     repopick 185938
     repopick 188677
     repopick 188332
+
+# Extras
+
+### build
+- 187372	releasetools: ota_from_target_files: add FullOTA_PostValidate
+- 187896	Edify: Add abort message for bootloader asserts
+- 187330	releasetools: squash otasigcheck support
+- 187331	releasetools: squash backuptool support
+- 187332	build: ota: Support for install tools in /tmp/install
+- 187373	edify: Don't append capabilities if path starts with /tmp
+- 187374	edify: bring back SetPermissionsRecursive
+
+    repopick 187372
+    repopick 187896
+    repopick 187330
+    repopick 187331
+    repopick 187332
+    repopick 187373
+    repopick 187374
