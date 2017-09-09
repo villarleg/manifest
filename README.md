@@ -38,3 +38,19 @@ Recommended to use repopick.
 ### qcom audio
 
 - 188332
+
+-----
+
+### ready to copy
+
+    repopick 188861
+    repopick 185521
+    repopick 187951
+    repopick 185491
+    repopick 185640
+    repopick 185936
+    repopick 188064
+    repopick 185937
+    repopick 185938
+    repopick 188677
+    repopick 188332
