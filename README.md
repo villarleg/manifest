@@ -66,6 +66,8 @@ Recommended to use repopick.
 - 187373	edify: Don't append capabilities if path starts with /tmp
 - 187374	edify: bring back SetPermissionsRecursive
 
+### ready to copy
+
     repopick 187372
     repopick 187896
     repopick 187330
@@ -73,3 +75,4 @@ Recommended to use repopick.
     repopick 187332
     repopick 187373
     repopick 187374
+
