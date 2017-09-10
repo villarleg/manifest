@@ -58,20 +58,13 @@ Recommended to use repopick.
 # Extras
 
 ### build
-- 187372
-- 187896
-- 187330
-- 187331
+
 - 187332
 - 187373
 - 187374
 
 ### ready to copy
 
-    repopick 187372
-    repopick 187896
-    repopick 187330
-    repopick 187331
     repopick 187332
     repopick 187373
     repopick 187374
