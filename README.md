@@ -39,9 +39,7 @@ Recommended to use repopick.
 
 - 188332
 
------
-
-### ready to copy
+### Copy - Paste
     repopick 188861
     repopick 185521
     repopick 187951
@@ -54,7 +52,13 @@ Recommended to use repopick.
     repopick 188677
     repopick 188332
 
+-----
+
 # Extras
+
+Not needed but nice to have
+
+-----
 
 ### system core (DASH)
 
@@ -66,9 +70,10 @@ Recommended to use repopick.
 - 187373
 - 187374
 
-### ready to copy
+### Copy - Paste
     repopick 185657
     repopick 187332
     repopick 187373
     repopick 187374
 
+-----
