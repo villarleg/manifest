@@ -67,13 +67,11 @@ Not needed but nice to have
 ### build (backuptool)
 
 - 187332
-- 187373
 - 187374
 
 ### Copy - Paste
     repopick 185657
     repopick 187332
-    repopick 187373
     repopick 187374
 
 -----
