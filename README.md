@@ -3,9 +3,6 @@
 Recommended to use repopick.
 
 -----
-### system core
-
-- 185657
 
 ### build
 
@@ -45,7 +42,6 @@ Recommended to use repopick.
 -----
 
 ### ready to copy
-    repopick 185657
     repopick 188861
     repopick 185521
     repopick 187951
@@ -60,14 +56,18 @@ Recommended to use repopick.
 
 # Extras
 
-### build
+### system core (DASH)
+
+- 185657
+
+### build (backuptool)
 
 - 187332
 - 187373
 - 187374
 
 ### ready to copy
-
+    repopick 185657
     repopick 187332
     repopick 187373
     repopick 187374
