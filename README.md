@@ -3,6 +3,9 @@
 Recommended to use repopick.
 
 -----
+### system core
+
+- 185657
 
 ### build
 
@@ -42,7 +45,7 @@ Recommended to use repopick.
 -----
 
 ### ready to copy
-
+    repopick 185657
     repopick 188861
     repopick 185521
     repopick 187951
