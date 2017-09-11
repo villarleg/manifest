@@ -8,14 +8,6 @@ Recommended to use repopick.
 
 - 188861
 
-### healthd
-
-- 185521
-
-### android alarm
-
-- 187951
-
 ### vendor overlays
 
 - 185491
@@ -41,8 +33,6 @@ Recommended to use repopick.
 
 ### Copy - Paste
     repopick 188861
-    repopick 185521
-    repopick 187951
     repopick 185491
     repopick 185640
     repopick 185936
