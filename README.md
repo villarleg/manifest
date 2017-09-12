@@ -8,9 +8,15 @@ Recommended to use repopick.
 
 - 188861
 
-### vendor overlays
+### frameworks/base
 
-- 185491
+- 187846
+- 187847
+
+### Telephonyprovider
+
+- 185944
+- 185945
 
 ### shims
 
@@ -33,7 +39,10 @@ Recommended to use repopick.
 
 ### Copy - Paste
     repopick 188861
-    repopick 185491
+    repopick 187846
+    repopick 187847
+    repopick 185944
+    repopick 185945
     repopick 185640
     repopick 185936
     repopick 188064
