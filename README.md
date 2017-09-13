@@ -25,10 +25,6 @@ Recommended to use repopick.
 
 - 188677
 
-### qcom audio
-
-- 188332
-
 ### Copy - Paste
     repopick 188861
     repopick 185944
@@ -36,7 +32,6 @@ Recommended to use repopick.
     repopick 185640
     repopick 185938
     repopick 188677
-    repopick 188332
 
 -----
 
