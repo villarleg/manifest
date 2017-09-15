@@ -21,18 +21,9 @@ Recommended to use repopick.
 - 188861
 - 186687
 
-### Telephonyprovider
-
-- 185944
-- 185945
-
 ### shims
 
 - 185640
-
-### tinycompress
-
-- 185938
 
 ### qcom display
 
@@ -48,10 +39,7 @@ Recommended to use repopick.
     repopick 189550
     repopick 188861
     repopick 186687
-    repopick 185944
-    repopick 185945
     repopick 185640
-    repopick 185938
     repopick 188677
 
 -----
