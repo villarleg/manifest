@@ -18,7 +18,6 @@ Recommended to use repopick.
 
 ### build
 
-- 188861
 - 186687
 
 ### shims
@@ -37,7 +36,6 @@ Recommended to use repopick.
     repopick 189548
     repopick 189549
     repopick 189550
-    repopick 188861
     repopick 186687
     repopick 185640
     repopick 188677
@@ -55,6 +53,6 @@ Not needed but nice to have
 - 185657
 
 ### Copy - Paste
-    repopick 185657
+    repopick 185657 -f
 
 -----
