@@ -29,10 +29,16 @@ Recommended to use repopick.
 
 - 188677
 
-### bt
+### system/bt
 
 - 192528
 - 192529
+
+### system/sepolicy
+
+- 190603
+- 190604
+- 190605
 
 ### Copy - Paste
     repopick 189539
@@ -47,6 +53,9 @@ Recommended to use repopick.
     repopick 188677
     repopick 192528
     repopick 192529
+    repopick 190603
+    repopick 190604
+    repopick 190605
 
 -----
 
