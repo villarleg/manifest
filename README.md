@@ -29,6 +29,11 @@ Recommended to use repopick.
 
 - 188677
 
+### bt
+
+- 192528
+- 192529
+
 ### Copy - Paste
     repopick 189539
     repopick 189540
@@ -40,6 +45,8 @@ Recommended to use repopick.
     repopick 186687
     repopick 185640
     repopick 188677
+    repopick 192528
+    repopick 192529
 
 -----
 
