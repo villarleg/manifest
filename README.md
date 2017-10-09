@@ -8,6 +8,8 @@ Recommended to use repopick.
 
 - 189539
 - 189540
+- 192575
+- 192576
 
 ### core
 
@@ -43,6 +45,8 @@ Recommended to use repopick.
 ### Copy - Paste
     repopick 189539
     repopick 189540
+    repopick 192575
+    repopick 192576
     repopick 189546
     repopick 189547
     repopick 189548
