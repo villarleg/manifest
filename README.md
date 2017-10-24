@@ -9,6 +9,10 @@ Recommended to use repopick.
 - 189539
 - 189540
 
+### build
+
+- 186687
+
 ### core
 
 - 189546
@@ -17,9 +21,11 @@ Recommended to use repopick.
 - 189549
 - 189550
 
-### build
+### device/oppo/common
 
-- 186687
+- 193331
+- 193341
+- 194268
 
 ### shims
 
@@ -37,14 +43,23 @@ Recommended to use repopick.
 ### Copy - Paste
     repopick 189539
     repopick 189540
+
+    repopick 186687
+
     repopick 189546
     repopick 189547
     repopick 189548
     repopick 189549
     repopick 189550
-    repopick 186687
+
+    repopick 193331
+    repopick 193341
+    repopick 194268
+
     repopick 185640
+
     repopick 188677
+
     repopick 192528
     repopick 192529
 
