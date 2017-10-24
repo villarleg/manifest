@@ -8,7 +8,6 @@ Recommended to use repopick.
 
 - 189539
 - 189540
-- 192576
 
 ### core
 
@@ -35,16 +34,9 @@ Recommended to use repopick.
 - 192528
 - 192529
 
-### system/sepolicy
-
-- 190603
-- 190604
-- 190605
-
 ### Copy - Paste
     repopick 189539
     repopick 189540
-    repopick 192576
     repopick 189546
     repopick 189547
     repopick 189548
@@ -55,9 +47,6 @@ Recommended to use repopick.
     repopick 188677
     repopick 192528
     repopick 192529
-    repopick 190603
-    repopick 190604
-    repopick 190605
 
 -----
 
