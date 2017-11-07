@@ -4,11 +4,6 @@ Recommended to use repopick.
 
 -----
 
-### base
-
-- 189539
-- 189540
-
 ### build
 
 - 186687
@@ -41,9 +36,6 @@ Recommended to use repopick.
 - 192529
 
 ### Copy - Paste
-    repopick 189539
-    repopick 189540
-
     repopick 186687
 
     repopick 189546
@@ -71,10 +63,6 @@ Not needed but nice to have
 
 -----
 
-### base
-
-- 191190
-
 ### system core (DASH)
 
 - 185657
@@ -84,7 +72,6 @@ Not needed but nice to have
 - 191330
 
 ### Copy - Paste
-    repopick 191190
     repopick 185657 -f
     repopick 191330
 
