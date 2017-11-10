@@ -76,3 +76,20 @@ Not needed but nice to have
     repopick 191330
 
 -----
+
+# KRYO
+
+- kryo-libc
+
+# ARMV8 32-BIT
+
+- armv8-32bit
+- https://android.googlesource.com/platform/external/skia/+/667a567f52cd00e809ade6e0f174772a768bb9a4
+
+### Copy - Paste
+    repopick -t kryo-libc
+    repopick -f -t armv8-32bit
+
+Need to pick external/skia manually
+
+-----
