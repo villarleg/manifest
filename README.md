@@ -22,10 +22,6 @@ Recommended to use repopick.
 - 193341
 - 194268
 
-### shims
-
-- 185640
-
 ### qcom display
 
 - 188677
@@ -47,8 +43,6 @@ Recommended to use repopick.
     repopick 193331
     repopick 193341
     repopick 194268
-
-    repopick 185640
 
     repopick 188677
 
