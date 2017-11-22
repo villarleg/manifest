@@ -57,16 +57,11 @@ Not needed but nice to have
 
 -----
 
-### system core (DASH)
-
-- 185657
-
 ### vendor/lineage
 
 - 191330
 
 ### Copy - Paste
-    repopick 185657 -f
     repopick 191330
 
 -----
