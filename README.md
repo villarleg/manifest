@@ -4,10 +4,6 @@ Recommended to use repopick.
 
 -----
 
-### build
-
-- 186687
-
 ### core
 
 - 189546
@@ -20,7 +16,9 @@ Recommended to use repopick.
 
 - 193331
 - 193341
+- 197605
 - 194268
+- 197606
 
 ### qcom display
 
@@ -32,8 +30,6 @@ Recommended to use repopick.
 - 192529
 
 ### Copy - Paste
-    repopick 186687
-
     repopick 189546
     repopick 189547
     repopick 189548
@@ -42,7 +38,9 @@ Recommended to use repopick.
 
     repopick 193331
     repopick 193341
+    repopick 197605
     repopick 194268
+    repopick 197606
 
     repopick 188677
 
@@ -65,6 +63,8 @@ Not needed but nice to have
     repopick 191330
 
 -----
+
+Only use below if you are sure what you are doing
 
 # KRYO
 
