@@ -3,8 +3,6 @@
 Recommended to use repopick.
 
 -----
-### shim exec
-- 198621
 ### ant
 - 199506
 ### nfc
@@ -32,11 +30,18 @@ Recommended to use repopick.
 - 198617
 - 198614
 - 198619
+### bootctrl
+- 199868
 ### oneplus
 - 199756
 - 199757
 - 199762
 - 199763
-- 199838
 - 199858
 - 199866
+-----
+
+Not ready yet:
+
+### healthd
+- 199838
