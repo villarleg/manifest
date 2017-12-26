@@ -12,14 +12,6 @@ Recommended to use repopick.
 - 189549
 - 189550
 
-### device/oppo/common
-
-- 193331
-- 193341
-- 197605
-- 194268
-- 197606
-
 ### qcom display
 
 - 188677
@@ -40,13 +32,7 @@ Recommended to use repopick.
     repopick 189549
     repopick 189550
 
-    repopick 193331
-    repopick 193341
-    repopick 197605
-    repopick 194268
-    repopick 197606
-
-    repopick 188677
+    repopick -f 188677
 
     repopick 192528
     repopick 192529
