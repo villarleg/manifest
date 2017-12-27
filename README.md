@@ -26,6 +26,10 @@ Recommended to use repopick.
 - 199600
 ### qcom camera
 - 198965
+### av camera
+- 200035
+### interfaces camera
+- 200040
 ### lineage qcom
 - 198617
 - 198614
