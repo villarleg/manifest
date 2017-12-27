@@ -7,8 +7,6 @@ Recommended to use repopick.
 - 199506
 ### nfc
 - 198050
-### fm
-- 199357
 ### tinycompress
 - 199120
 ### qcom sepol
