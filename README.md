@@ -32,10 +32,15 @@ Recommended to use repopick.
 - 198617
 - 198614
 - 198619
-### oneplus
-- 199756
+### dummy hidl
 - 199763
+### aosp nfc
+- 200105
+### OOS 5.0 update
+- 199756
+### gps
 - 200009
+
 -----
 
 Not ready yet:
