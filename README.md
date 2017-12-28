@@ -36,8 +36,6 @@ Recommended to use repopick.
 - 199868
 ### oneplus
 - 199756
-- 199757
-- 199762
 - 199763
 - 199858
 - 199866
