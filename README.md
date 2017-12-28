@@ -22,6 +22,8 @@ Recommended to use repopick.
 - 199565
 - 199554
 - 199600
+### base nsrm
+- 198950
 ### qcom camera
 - 198965
 ### av camera
