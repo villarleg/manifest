@@ -32,4 +32,9 @@ Recommended to use repopick.
 - 198617
 - 198614
 - 198619
+### wifi module
+- 198953
+- 200156
+### fbe
+- 200157
 -----
