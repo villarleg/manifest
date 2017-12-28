@@ -37,4 +37,6 @@ Recommended to use repopick.
 - 200156
 ### fbe
 - 200157
+### kernel cam
+- 200193
 -----
