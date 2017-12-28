@@ -24,8 +24,6 @@ Recommended to use repopick.
 - 199600
 ### base nsrm
 - 198950
-### qcom camera
-- 198965
 ### av camera
 - 200035
 ### interfaces camera
@@ -34,18 +32,4 @@ Recommended to use repopick.
 - 198617
 - 198614
 - 198619
-### dummy hidl
-- 199763
-### aosp nfc
-- 200105
-### OOS 5.0 update
-- 199756
-### gps
-- 200009
-
 -----
-
-Not ready yet:
-
-### healthd
-- 199838
