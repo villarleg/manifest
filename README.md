@@ -32,13 +32,9 @@ Recommended to use repopick.
 - 198617
 - 198614
 - 198619
-### bootctrl
-- 199868
 ### oneplus
 - 199756
 - 199763
-- 199858
-- 199866
 -----
 
 Not ready yet:
