@@ -14,20 +14,7 @@
 
     <!-- Vendor -->
     <project name="NastyAndroidDevs/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
-
-    <!-- QCOM HALs -->
-    <remove-project path="hardware/qcom/audio-caf/msm8998" name="LineageOS/android_hardware_qcom_audio" />
-    <project path="hardware/qcom/audio-caf/msm8998" name="LineageOS/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="staging/lineage-15.1-caf-8998" />
-
-    <remove-project path="hardware/qcom/display-caf/msm8998" name="LineageOS/android_hardware_qcom_display" />
-    <project path="hardware/qcom/display-caf/msm8998" name="NastyAndroidDevs/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="staging/lineage-15.1-caf-8998" />
-
-    <remove-project path="hardware/qcom/media-caf/msm8998" name="LineageOS/android_hardware_qcom_media" />
-    <project path="hardware/qcom/media-caf/msm8998" name="LineageOS/android_hardware_qcom_media" groups="qcom,pdk" revision="staging/lineage-15.1-caf-8998" />
-
-    <remove-project path="hardware/qcom/bootctrl" name="platform/hardware/qcom/bootctrl" />
-    <project path="hardware/qcom/bootctrl" name="LineageOS/android_hardware_qcom_bootctrl" groups="qcom,pdk" revision="staging/lineage-15.1" />
-
+    
     <!-- Trebuchet -->
     <remove-project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" />
     <project path="packages/apps/Trebuchet" name="jrizzoli/bug-free-bassoon" revision="staging/clean" />
