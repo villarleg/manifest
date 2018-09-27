@@ -5,17 +5,16 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
            revision="refs/tags/android-9.0.0_r6" />
+           
+  <remote  name="aokpie"
+           revision="pie" 
+           fetch=".."/>
 
   <remote  name="github"
-           fetch=".." />
-           
-  <remote  name="aokp"
-           revision="refs/heads/pie"
-           fetch=".."
-           review="gerrit.aokp.co" />
+           fetch="https://github.com" />
            
   <remote  name="los"
-           fetch=".."
+           fetch="https://github.com"
            review="review.lineageos.org"
            revision="refs/heads/lineage-16.0" />
            
@@ -28,8 +27,8 @@
 		   sync-j="4" />
 
   <!-- AOKP Projects -->
-  <project path="bionic" remote="aokp" name="AOKP/bionic" groups="pdk" />
-  <project path="build/make" remote="aokp" name="AOKP/build" groups="pdk" >
+  <project path="bionic" remote="aokpie" name="aokpie/android_bionic" groups="pdk" />
+  <project path="build/make" remote="aokpie" name="aokpie/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -38,17 +37,17 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-    <project path="build/soong" remote="aokp" name="AOKP/build_soong" groups="pdk,tradefed" >
+    <project path="build/soong" remote="aokpie" name="aokpie/android_build_soong" groups="pdk,tradefed" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="external/tinycompress" remote="aokp" name="AOKP/external_tinycompress" groups="pdk" />
-  <project path="frameworks/native" remote="aokp" name="AOKP/frameworks_native" groups="pdk" />
-  <project path="frameworks/av" remote="aokp" name="AOKP/frameworks_av" groups="pdk" />
-  <project path="lineage-sdk" remote="aokp" name="AOKP/lineage-sdk" />
-  <project path="packages/apps/ROMControl" remote="aokp" name="AOKP/packages_apps_ROMControl" />  
-  <project path="packages/apps/Settings" remote="aokp" name="AOKP/packages_apps_Settings" groups="pdk-fs" />
-  <project path="vendor/aokp" remote="aokp" name="AOKP/vendor_aokp" />
+  <project path="external/tinycompress" remote="aokpie" name="aokpie/android_android_external_tinycompress" groups="pdk" />
+  <project path="frameworks/native" remote="aokpie" name="aokpie/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/av" remote="aokpie" name="aokpie/android_frameworks_av" groups="pdk" />
+  <project path="lineage-sdk" remote="aokpie" name="aokpie/android_lineage-sdk" />
+  <project path="packages/apps/ROMControl" remote="aokpie" name="aokpie/android_packages_apps_ROMControl" />  
+  <project path="packages/apps/Settings" remote="aokpie" name="aokpie/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="vendor/aokp" remote="aokpie" name="aokpie/vendor_aokp" />
   <!-- end AOKP projects -->
   
   <!-- LOS projects -->
