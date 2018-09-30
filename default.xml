@@ -27,8 +27,8 @@
 		   sync-j="4" />
 
   <!-- AOKP Projects -->
-  <project path="bionic" remote="aokpie" name="aokpie/android_bionic" groups="pdk" />
-  <project path="build/make" remote="aokpie" name="aokpie/android_build" groups="pdk" >
+  <project path="bionic" remote="aokpie" name="villarleg/android_bionic" groups="pdk" />
+  <project path="build/make" remote="aokpie" name="villarleg/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
     <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
@@ -37,17 +37,17 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-    <project path="build/soong" remote="aokpie" name="aokpie/android_build_soong" groups="pdk,tradefed" >
+    <project path="build/soong" remote="aokpie" name="villarleg/android_build_soong" groups="pdk,tradefed" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="external/tinycompress" remote="aokpie" name="aokpie/android_external_tinycompress" groups="pdk" />
-  <project path="frameworks/native" remote="aokpie" name="aokpie/android_frameworks_native" groups="pdk" />
-  <project path="frameworks/av" remote="aokpie" name="aokpie/android_frameworks_av" groups="pdk" />
-  <project path="lineage-sdk" remote="aokpie" name="aokpie/android_lineage-sdk" />
-  <project path="packages/apps/ROMControl" remote="aokpie" name="aokpie/packages_apps_ROMControl" />  
-  <project path="packages/apps/Settings" remote="aokpie" name="aokpie/android_packages_apps_Settings" groups="pdk-fs" />
-  <project path="vendor/aokp" remote="aokpie" name="aokpie/vendor_aokp" />
+  <project path="external/tinycompress" remote="aokpie" name="villarleg/android_external_tinycompress" groups="pdk" />
+  <project path="frameworks/native" remote="aokpie" name="villarleg/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/av" remote="aokpie" name="villarleg/android_frameworks_av" groups="pdk" />
+  <project path="lineage-sdk" remote="aokpie" name="villarleg/android_lineage-sdk" />
+  <project path="packages/apps/ROMControl" remote="aokpie" name="villarleg/packages_apps_ROMControl" />  
+  <project path="packages/apps/Settings" remote="aokpie" name="villarleg/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="vendor/aokp" remote="aokpie" name="villarleg/vendor_aokp" />
   <!-- end AOKP projects -->
   
   <!-- cm projects -->
