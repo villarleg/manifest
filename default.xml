@@ -41,7 +41,6 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="external/tinycompress" remote="aokpie" name="villarleg/android_external_tinycompress" groups="pdk" />
   <project path="frameworks/native" remote="aokpie" name="villarleg/android_frameworks_native" groups="pdk" />
   <project path="frameworks/av" remote="aokpie" name="villarleg/android_frameworks_av" groups="pdk" />
   <project path="lineage-sdk" remote="aokpie" name="villarleg/android_lineage-sdk" />
@@ -380,6 +379,7 @@
   <project path="external/testng" name="platform/external/testng" groups="pdk" remote="aosp" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" groups="pdk" remote="aosp" />
   <project path="external/tinyalsa" name="platform/external/tinyalsa" groups="pdk" remote="aosp" />
+  <project path="external/tinycompress" name="LineageOS/external_tinycompress" groups="pdk" /> 
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" remote="aosp" />
   <project path="external/toolchain-utils" name="platform/external/toolchain-utils" remote="aosp" />
